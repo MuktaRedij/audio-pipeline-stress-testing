@@ -1,0 +1,18 @@
+{
+  "Scenario 1": {
+    "num_clients": 5,
+    "average_latency": 12.5,
+    "p95_latency": 25.0,
+    "max_latency": 45.0,
+    "throughput": 500,
+    "packet_loss": 0.1
+  },
+  "Scenario 2": {
+    "num_clients": 10,
+    "average_latency": 15.0,
+    "p95_latency": 30.0,
+    "max_latency": 50.0,
+    "throughput": 950,
+    "packet_loss": 0.2
+  }
+}
